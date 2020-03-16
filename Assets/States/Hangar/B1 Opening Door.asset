@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513a4b4224b2185f599bce7417217ce6, type: 3}
+  m_Name: B1 Opening Door
+  m_EditorClassIdentifier: 
+  storyText: '1. Escape
+
+    2. Friendly Fire'
+  nextStates:
+  - {fileID: 11400000, guid: 4d6b5a7044c712772ae6d855176bf36a, type: 2}
+  - {fileID: 11400000, guid: a05e5178c46923b7184ef63b8c3e1d44, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513a4b4224b2185f599bce7417217ce6, type: 3}
+  m_Name: A3 Emergency Exit
+  m_EditorClassIdentifier: 
+  storyText: '1. Pick Lock
+
+    2. Lock Smashing'
+  nextStates:
+  - {fileID: 11400000, guid: a873c6db2f0944dfa8e7cebff3c197c7, type: 2}
+  - {fileID: 11400000, guid: 714591c90a200c36e9c7ee4c549ea5c4, type: 2}

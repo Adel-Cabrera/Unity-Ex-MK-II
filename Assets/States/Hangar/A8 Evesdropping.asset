@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513a4b4224b2185f599bce7417217ce6, type: 3}
+  m_Name: A8 Evesdropping
+  m_EditorClassIdentifier: 
+  storyText: '1. Pressure Build
+
+    2. Narrow Escape'
+  nextStates:
+  - {fileID: 11400000, guid: 670883f809ed8c06f9519f8d52b05da3, type: 2}
+  - {fileID: 11400000, guid: ae4ddf81cedc6b3f7a8ad8c730a1d84e, type: 2}
